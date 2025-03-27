@@ -84,7 +84,7 @@ If you are using TypeScript,
 you can use the hast types by installing them with npm:
 
 ```sh
-npm install @types/hast
+npm install @types/hast -D
 ```
 
 ## Nodes (abstract)
